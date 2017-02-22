@@ -84,12 +84,12 @@
 			children = (
 				3FA6DB971E5D08DC00D98C39 /* AppDelegate.swift */,
 				3FA6DB991E5D08DC00D98C39 /* ViewController.swift */,
+				3FA6DBA91E5D119200D98C39 /* SListTableViewCell.swift */,
 				3FB3EFF71E5D2AEC0049443D /* GoogleService-Info.plist */,
 				3FA6DB9B1E5D08DC00D98C39 /* Main.storyboard */,
 				3FA6DB9E1E5D08DC00D98C39 /* Assets.xcassets */,
 				3FA6DBA01E5D08DC00D98C39 /* LaunchScreen.storyboard */,
 				3FA6DBA31E5D08DC00D98C39 /* Info.plist */,
-				3FA6DBA91E5D119200D98C39 /* SListTableViewCell.swift */,
 			);
 			path = ShopiWay;
 			sourceTree = "<group>";

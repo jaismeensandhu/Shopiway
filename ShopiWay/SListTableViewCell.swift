@@ -2,13 +2,15 @@
 //  SListTableViewCell.swift
 //  ShopiWay
 //
-//  Created by Student on 2017-02-21.
+//  Created by Jaismeen Sandhu (300877728) on 2017-02-21.
+//  Purpose : Cells Controls
 //  Copyright © 2017 proapptive. All rights reserved.
 //
 
 import UIKit
-
+// Table Cell Declaration , Dedicated Class to prototype cell
 class SListTableViewCell: UITableViewCell {
+    
     @IBOutlet weak var Item: UITextField!
     @IBOutlet weak var QLabel: UILabel!
 
@@ -16,6 +18,7 @@ class SListTableViewCell: UITableViewCell {
         super.awakeFromNib()
         // Initialization code
     }
+    // Controls the stepper
     @IBAction func QControls(_ sender: UIStepper) {
         var quant = Int(sender.value)
         QLabel.text = String(quant);

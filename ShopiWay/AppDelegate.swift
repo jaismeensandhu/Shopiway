@@ -2,9 +2,11 @@
 //  AppDelegate.swift
 //  ShopiWay
 //
-//  Created by Student on 2017-02-21.
+//  Created by Jaismeen Sandhu (300877728) on 2017-02-21.
+//  Purpose : Configure Firebase Database
 //  Copyright © 2017 proapptive. All rights reserved.
 //
+
 
 import UIKit
 import Firebase
